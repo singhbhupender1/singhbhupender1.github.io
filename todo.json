@@ -1,0 +1,17 @@
+[
+    {
+        "title" : "Monday",
+        "todo item": "get groceries",
+        "author": "BOB",
+        "date": "2018/01/11"
+    },
+
+    {
+        
+        "title" : "Tuesday",
+        "todo item": "go to temple",
+        "author": "BOB",
+        "date": "2018/01/12"
+
+    }
+]
